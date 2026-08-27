@@ -7,7 +7,7 @@ const modalScreen = document.querySelector(".modal-screen");
 const modalBtn = document.querySelector(".modal-button");
 
 usernameInput.addEventListener('keyup' , function(){
-    if(usernameInput.value.length>3){
+    if(usernameInput.value.trim().length>3){
         usernameMessage.classList.remove('hidden');
         usernameMessage.classList.remove('unsuccess');
         usernameMessage.classList.add('success');
