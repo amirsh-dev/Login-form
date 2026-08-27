@@ -1,10 +1,10 @@
-# Login Form
+# 🔐 Login Form
 
 A simple **Login Form** built with pure **HTML, CSS, and JavaScript**.
 
 This mini project is mainly for **learning and practice**, focusing on understanding the logic and functionality behind a login form.
 
-## Technologies
+## Built With
 
 * HTML
 * CSS
